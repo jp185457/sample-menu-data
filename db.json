@@ -233,52 +233,6 @@
         "enterpriseUnitId": "String",
         "priceCode": "String"
       }
-    },
-    {
-      "version": 4,
-      "itemId": {
-        "itemCode": "1278937"
-      },
-      "packageIdentifiers": [
-        {
-          "type": "Type_1",
-          "value": "value_1"
-        }
-      ],
-      "shortDescription": {
-        "locale": "en-US",
-        "value": "Greek Pizza"
-      },
-      "longDescription": {
-        "locale": "en-US",
-        "value": "This pizza features a thick and chewy crust cooked in shallow, oiled pans, resulting in a nearly deep-fried bottom."
-      },
-      "status": "ACTIVE",
-      "merchandiseCategory": {
-        "nodeId": "1-846-188-450"
-      },
-      "departmentId": "783497",
-      "familyCode": "732897",
-      "manufacturerCode": "46743234",
-      "nonMerchandise": null,
-      "externalIdentifiers": [
-        {
-          "type": "NACS_CODE",
-          "value": "3031"
-        }
-      ],
-      "posNumber": "113",
-      "referenceId": "832022",
-      "price": 11.5,
-      "currency": "US Dollar",
-      "tareWeightUom": "POUND",
-      "tareWeight": 1.5,
-      "precision": 2,
-      "priceId": {
-        "itemCode": "1278932",
-        "enterpriseUnitId": "String",
-        "priceCode": "String"
-      }
     }
   ]
 }
