@@ -1,11 +1,6 @@
 {
-  "lastPage": null,
-  "pageNumber": 1,
-  "totalPages": 1,
-  "totalResults": 5,
   "pageContent": [
     {
-      "version": 4,
       "itemId": {
         "itemCode": "1278932"
       },
@@ -18,18 +13,9 @@
         "value": "A pizza covered in olive oil, oregano and finished with garlic and basil"
       },
       "price": 11.9,
-      "currency": "US Dollar",
-      "tareWeightUom": "POUND",
-      "tareWeight": 1.5,
-      "precision": 2,
-      "priceId": {
-        "itemCode": "1278932",
-        "enterpriseUnitId": "String",
-        "priceCode": "String"
-      }
+      "currency": "US Dollar"
     },
     {
-      "version": 4,
       "itemId": {
         "itemCode": "1278933"
       },
@@ -42,18 +28,9 @@
         "value": "A pizza topped with cheese and ham"
       },
       "price": 10.9,
-      "currency": "US Dollar",
-      "tareWeightUom": "POUND",
-      "tareWeight": 1.5,
-      "precision": 2,
-      "priceId": {
-        "itemCode": "1278933",
-        "enterpriseUnitId": "String",
-        "priceCode": "String"
-      }
+      "currency": "US Dollar"
     },
     {
-      "version": 4,
       "itemId": {
         "itemCode": "1278934"
       },
@@ -66,18 +43,9 @@
         "value": "Topped with beef and sausage"
       },
       "price": 12.5,
-      "currency": "US Dollar",
-      "tareWeightUom": "POUND",
-      "tareWeight": 1.5,
-      "precision": 2,
-      "priceId": {
-        "itemCode": "1278934",
-        "enterpriseUnitId": "String",
-        "priceCode": "String"
-      }
+      "currency": "US Dollar"
     },
     {
-      "version": 4,
       "itemId": {
         "itemCode": "1278935"
       },
@@ -90,18 +58,9 @@
         "value": "A foldable pizza with a crispy outer crust and baked in a wood burning oven"
       },
       "price": 8.25,
-      "currency": "US Dollar",
-      "tareWeightUom": "POUND",
-      "tareWeight": 1.5,
-      "precision": 2,
-      "priceId": {
-        "itemCode": "1278935",
-        "enterpriseUnitId": "String",
-        "priceCode": "String"
-      }
+      "currency": "US Dollar"
     },
     {
-      "version": 4,
       "itemId": {
         "itemCode": "1278936"
       },
@@ -114,15 +73,7 @@
         "value": "A thick cut of pizza with pillowy dough, a crunchy crust, and robust tomato sauce."
       },
       "price": 12.5,
-      "currency": "US Dollar",
-      "tareWeightUom": "POUND",
-      "tareWeight": 1.5,
-      "precision": 2,
-      "priceId": {
-        "itemCode": "1278936",
-        "enterpriseUnitId": "String",
-        "priceCode": "String"
-      }
+      "currency": "US Dollar"
     }
   ]
 }
